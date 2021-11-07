@@ -10,7 +10,7 @@ permissions:
     children:
       decorations.menu:
         description: Allows use of the Decorations command and UI
-        default: op
+        default: true
       decorations.override:
         description: Allows management of another player's spawned decorations
         default: op
